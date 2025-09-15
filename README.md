@@ -1,5 +1,8 @@
 Python class that can be used for height standardization. For additional information, please refer to the [Documentation](https://github.com/VasavDotJS/unitStandardizer/blob/main/unitStandardizer.py) in unitStandardizer.py
 
+Example:
+[Result of Height Standardization](image-results/result.png)
+
 To clone repository, open command prompt/terminal:
 `git clone https://github.com/VasavDotJS/unitStandardizer.git`
 
